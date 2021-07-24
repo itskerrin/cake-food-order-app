@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cake-food-order-app/static/css/main.079db014.chunk.css",
+    "main.js": "/cake-food-order-app/static/js/main.104074c0.chunk.js",
+    "main.js.map": "/cake-food-order-app/static/js/main.104074c0.chunk.js.map",
+    "runtime-main.js": "/cake-food-order-app/static/js/runtime-main.171db19b.js",
+    "runtime-main.js.map": "/cake-food-order-app/static/js/runtime-main.171db19b.js.map",
+    "static/js/2.126dfa87.chunk.js": "/cake-food-order-app/static/js/2.126dfa87.chunk.js",
+    "static/js/2.126dfa87.chunk.js.map": "/cake-food-order-app/static/js/2.126dfa87.chunk.js.map",
+    "index.html": "/cake-food-order-app/index.html",
+    "static/css/main.079db014.chunk.css.map": "/cake-food-order-app/static/css/main.079db014.chunk.css.map",
+    "static/js/2.126dfa87.chunk.js.LICENSE.txt": "/cake-food-order-app/static/js/2.126dfa87.chunk.js.LICENSE.txt",
+    "static/media/cake-banner.39f74647.jpg": "/cake-food-order-app/static/media/cake-banner.39f74647.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.171db19b.js",
+    "static/js/2.126dfa87.chunk.js",
+    "static/css/main.079db014.chunk.css",
+    "static/js/main.104074c0.chunk.js"
+  ]
+}
